@@ -3,6 +3,7 @@
 
 AddXORgate2::AddXORgate2(ApplicationManager* pApp) :Action(pApp)
 {
+
 }
 
 AddXORgate2::~AddXORgate2(void)
