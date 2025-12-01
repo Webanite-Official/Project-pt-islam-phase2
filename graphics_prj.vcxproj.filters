@@ -206,6 +206,12 @@
     <ClCompile Include="Actions\AddBUFFERgate.cpp">
       <Filter>Actions</Filter>
     </ClCompile>
+    <ClCompile Include="Actions\AddLED.cpp">
+      <Filter>Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="Actions\AddSWITCH.cpp">
+      <Filter>Actions</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Defs.H" />
@@ -372,6 +378,12 @@
       <Filter>Actions</Filter>
     </ClInclude>
     <ClInclude Include="Actions\AddBUFFERgate.h">
+      <Filter>Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="Actions\AddLED.h">
+      <Filter>Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="Actions\AddSWITCH.h">
       <Filter>Actions</Filter>
     </ClInclude>
   </ItemGroup>
